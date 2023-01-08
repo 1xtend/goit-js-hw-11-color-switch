@@ -36,5 +36,4 @@ body {
 .switch__btn:disabled:active {
   transform: translateY(0);
   box-shadow: 0 8px rgba(0, 0, 0, 0.5);
-  background-color: #a5a5a5;
 }
